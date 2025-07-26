@@ -6,6 +6,7 @@ Kalian bisa clone repo ini atau langsung main di <a href="https://wokwi.com/proj
 ## GUIDE
 ### TAMPILAN AWAL
 <img src="img/Tampilan Awal.png"/>
+<br><br>
 Tampilan awal menunjukkan pergerakan kereta pada masing - masing jalur (LINE)
 <br>
 Tiap stasiun berhenti selama 1 detik, dan untuk stasiun transit yang sudah ditandai (O) akan berhenti selama 3 detik
@@ -14,12 +15,14 @@ Tekan tombol untuk menuju tampilan berikutnya
 
 ### MENU TUJUAN
 <img src="img/Menu Tujuan.png"/>
+<br><br>
 Disini akan menampilkan posisi awal dan juga stasiun yang ingin dituju penumpang
 <br>
 Pilih stasiun tujuan menggunakan knob disebelah tombol kemudian tekan tombol untuk konfirmasi
 
 ### TAMPILAN BIAYA
 <img src="img/Tampilan Biaya.png"/>
+<br><br>
 Setelah konfirmasi stasiun tujuan disini akan menampilkan biaya yang diperlukan
 <br>
 5k adalah harga dasar untuk maksimal 3 stasiun kemudian ada tambahan 3k tiap stasiun setelahnya
@@ -28,19 +31,22 @@ Tekan tombol untuk memulai perjalanan
 
 ### MENUNGGU KERETA
 <img src="img/Tampilan Tunggu.png" />
+<br><br>
 Disini akan menampilkan posisi awal penumpang
 <br>
 Dibawah nya adalah jumlah stasiun yang harus dilewati sebelum ke stasiun penumpang
 <br>
 Dan juga menunjukan LINE kereta yang akan dinaiki
-<br><br><br>
+<br><br>
 <img src="img/Tampilan Berangkat.png" />
+<br><br>
 Tekan tombol apabila kereta sudah datang
 <br>
 Apabila penumpang terlambat maka akan menunggu kereta berikutnya
 
 ### PERJALANAN
 <img src="img/Tampilan Perjalanan.png" />
+<br><br>
 Saat penumpang sudah naik kereta akan menunjukkan
 <br>
 H = Stasiun penumpang berada saat ini
@@ -51,10 +57,13 @@ TIME = waktu yang dibutuhkan penumpang untuk tiba di stasiun tujuan
 
 ### PROSES PEMBAYARAN
 <img src="img/Proses Bayar.png" />
+<br><br>
 Setelah penumpang tiba akan langsung dialihkan ke proses pembayaran
 <br>
 Putar knob kembali untuk menyesuaikan nominal yang sesuai dengan tarif yang dikenakan
+<br><br>
 <img src="img/Pembayaran Berhasil.png" />
+<br><br>
 Setelah pembayaran berhasil kemudian penumpang akan kembali ke tampilan awal dan posisi awal sudah berubah di posisi yang dituju sebelumnya
 
 ## NOTE
