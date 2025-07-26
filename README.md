@@ -27,7 +27,7 @@ Setelah konfirmasi stasiun tujuan disini akan menampilkan biaya yang diperlukan
 Tekan tombol untuk memulai perjalanan
 
 ### MENUNGGU KERETA
-<img src="Tampilan Tunggu.png" />
+<img src="img/Tampilan Tunggu.png" />
 Disini akan menampilkan posisi awal penumpang
 <br>
 Dibawah nya adalah jumlah stasiun yang harus dilewati sebelum ke stasiun penumpang
@@ -40,7 +40,7 @@ Tekan tombol apabila kereta sudah datang
 Apabila penumpang terlambat maka akan menunggu kereta berikutnya
 
 ### PERJALANAN
-<img src="Tampilan Perjalanan.png" />
+<img src="img/Tampilan Perjalanan.png" />
 Saat penumpang sudah naik kereta akan menunjukkan
 <br>
 H = Stasiun penumpang berada saat ini
@@ -50,11 +50,11 @@ N = Stasiun berikutnya
 TIME = waktu yang dibutuhkan penumpang untuk tiba di stasiun tujuan
 
 ### PROSES PEMBAYARAN
-<img src="Proses Bayar.png" />
+<img src="img/Proses Bayar.png" />
 Setelah penumpang tiba akan langsung dialihkan ke proses pembayaran
 <br>
 Putar knob kembali untuk menyesuaikan nominal yang sesuai dengan tarif yang dikenakan
-<img src="Pembayaran Berhasil.png" />
+<img src="img/Pembayaran Berhasil.png" />
 Setelah pembayaran berhasil kemudian penumpang akan kembali ke tampilan awal dan posisi awal sudah berubah di posisi yang dituju sebelumnya
 
 ## NOTE
