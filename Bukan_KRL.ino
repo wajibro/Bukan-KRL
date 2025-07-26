@@ -544,7 +544,7 @@ void loop() {
       }
 
       refresh3();
-      LCDsetCursor(((wait) / 10 == 1 ) ? 3 : 4,3);
+      LCDsetCursor(((wait) / 10 >= 1 ) ? 3 : 4,3);
       if(wait != 0){
         LCDprintNumb(wait);
         enable = 1;
@@ -600,7 +600,7 @@ void loop() {
         }
       }
 
-      LCDsetCursor(((count) / 10) == 1 ? 7 : 8, 3);
+      LCDsetCursor(((count) / 10) >= 1 ? 7 : 8, 3);
       LCDprintNumb(count);
 
       refresh4();
