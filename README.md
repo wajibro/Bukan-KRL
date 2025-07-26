@@ -22,7 +22,7 @@ Pilih stasiun tujuan menggunakan knob disebelah tombol kemudian tekan tombol unt
 <img src="img/Tampilan Biaya.png"/>
 Setelah konfirmasi stasiun tujuan disini akan menampilkan biaya yang diperlukan
 <br>
-5k untuk maksimal stasiun kemudian ada tambahan 3k tiap stasiun setelahnya
+5k adalah harga dasar untuk maksimal 3 stasiun kemudian ada tambahan 3k tiap stasiun setelahnya
 <br>
 Tekan tombol untuk memulai perjalanan
 
