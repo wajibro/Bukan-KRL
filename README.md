@@ -30,7 +30,7 @@ Tekan tombol untuk memulai perjalanan
 
 ### MENUNGGU KERETA
 <img src="img/Tampilan Tunggu.png" />
-Disini akan menampilkan posisi awal penumpang
+Disini akan menampilkan stasiun keberangkatan penumpang
 <br><br>
 Dibawah nya adalah jumlah stasiun yang harus dilewati sebelum ke stasiun penumpang
 <br><br>
