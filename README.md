@@ -33,7 +33,7 @@ Disini akan menampilkan posisi awal penumpang
 Dibawah nya adalah jumlah stasiun yang harus dilewati sebelum ke stasiun penumpang
 <br>
 Dan juga menunjukan LINE kereta yang akan dinaiki
-<br>
+<br><br><br>
 <img src="img/Tampilan Berangkat.png" />
 Tekan tombol apabila kereta sudah datang
 <br>
