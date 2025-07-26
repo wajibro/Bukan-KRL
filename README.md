@@ -16,7 +16,7 @@ Tekan tombol untuk menuju tampilan berikutnya
 <img src="img/Menu Tujuan.png"/>
 Disini akan menampilkan posisi awal dan juga stasiun yang ingin dituju penumpang
 <br>
-Pilih stasiun menggunakan knob disebelah tombol kemudian tekan tombol untuk konfirmasi
+Pilih stasiun tujuan menggunakan knob disebelah tombol kemudian tekan tombol untuk konfirmasi
 
 ### TAMPILAN BIAYA
 <img src="img/Tampilan Biaya.png"/>
