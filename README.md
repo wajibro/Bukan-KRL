@@ -5,4 +5,4 @@ Kalian bisa clone repo ini atau langsung main di <a href="https://wokwi.com/proj
 
 ## GUIDE
 ### TAMPILAN AWAL
-<img src="" />
+<img src="img/Tampilan Awal.png" />
