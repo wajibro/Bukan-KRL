@@ -9,7 +9,7 @@ Kalian bisa clone repo ini atau langsung main di <a href="https://wokwi.com/proj
 Tampilan awal menunjukkan pergerakan kereta pada masing - masing jalur (LINE)
 <br><br>
 Tiap stasiun berhenti selama 1 detik, dan untuk stasiun transit yang sudah ditandai (O) akan berhenti selama 3 detik
-<br>
+<br><br>
 Tekan tombol untuk menuju tampilan berikutnya
 
 ### MENU TUJUAN
