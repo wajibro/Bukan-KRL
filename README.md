@@ -22,7 +22,7 @@ Pilih stasiun tujuan menggunakan knob disebelah tombol kemudian tekan tombol unt
 ### TAMPILAN BIAYA
 <img src="img/Tampilan Biaya.png"/>
 
-Setelah konfirmasi stasiun tujuan disini akan menampilkan biaya yang diperlukan
+Setelah konfirmasi stasiun tujuan disini akan menampilkan taris yang dikenakan
 <br><br>
 5k adalah harga dasar untuk maksimal 3 stasiun kemudian ada tambahan 3k tiap stasiun setelahnya
 <br><br>
