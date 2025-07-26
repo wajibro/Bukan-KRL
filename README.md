@@ -34,7 +34,7 @@ Dibawah nya adalah jumlah stasiun yang harus dilewati sebelum ke stasiun penumpa
 <br>
 Dan juga menunjukan LINE kereta yang akan dinaiki
 <br>
-<img src="Tampilan Berangkat.png" />
+<img src="img/Tampilan Berangkat.png" />
 Tekan tombol apabila kereta sudah datang
 <br>
 Apabila penumpang terlambat maka akan menunggu kereta berikutnya
